@@ -1,0 +1,2 @@
+[console_scripts]
+realpython = __main__:main

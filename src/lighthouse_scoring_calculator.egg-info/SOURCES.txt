@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/__init__.py
+src/__main__.py
+src/example.py
+src/lighthouse_scoring_calculator.py
+src/metrics.py
+src/util.py
+src/lighthouse_scoring_calculator.egg-info/PKG-INFO
+src/lighthouse_scoring_calculator.egg-info/SOURCES.txt
+src/lighthouse_scoring_calculator.egg-info/dependency_links.txt
+src/lighthouse_scoring_calculator.egg-info/entry_points.txt
+src/lighthouse_scoring_calculator.egg-info/top_level.txt
