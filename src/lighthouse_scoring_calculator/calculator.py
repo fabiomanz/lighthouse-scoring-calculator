@@ -1,5 +1,5 @@
-import metrics
-import util
+from . import metrics
+from . import util
 
 
 class LighthouseScoringCalculator:
