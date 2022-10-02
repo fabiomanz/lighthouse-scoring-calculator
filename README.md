@@ -1,6 +1,6 @@
 # Lighthouse Scoring Calculator
 
-Python package to calculate the Lighthouse scoring for a website
+Python package to calculate the Lighthouse scoring for a website (same as [pagespeed.web.dev](pagespeed.web.dev))
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 ![PyPI](https://img.shields.io/pypi/v/lighthouse-scoring-calculator)
