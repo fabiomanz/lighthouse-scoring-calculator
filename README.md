@@ -3,11 +3,10 @@
 Python package to calculate the Lighthouse scoring for a website
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-![PyPI](https://img.shields.io/pypi/v/lighthouse-scoring-calculator)
 
 ## Authors
 
-- [@fabiomanz](https://www.github.com/fabiomanz)
+- [@octokatherine](https://www.github.com/fabiomanz)
 
 ## Acknowledgements
 
