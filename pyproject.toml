@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lighthouse-scoring-calculator"
-version = "1.0.1"
+version = "1.0.2"
 description = "Calculate the Lighthouse scoring for a website"
 readme = "README.md"
 authors = [{ name = "Fabio Manz", email = "fabio.manz@t-online.de" }]
